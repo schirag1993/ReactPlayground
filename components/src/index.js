@@ -7,6 +7,10 @@ const App = () => {
   return (
     <div className="ui container comments">
     <ApprovalCard>
+      <div><h4>Hello</h4></div>
+      Lets try this
+    </ApprovalCard>
+    <ApprovalCard>
     <CommentDetail
         author="Sam"
         timeAgo="Many generations hence"
